@@ -6,6 +6,13 @@
 
 body {
 	background-color: #eaeaea;
+	background-image: url('./images/kindred.png');
+	background-repeat: no-repeat;
+	background-position: right bottom;
+	background-size: 130px;
+	background-origin: border-box;
+	background-clip: content-box;
+	background-attachment: fixed;
 }
 main {
 	background-color: #fff;
